@@ -7,10 +7,6 @@
 # 
 # v 0.0.1.0
 # 
-# file: C:\Dropbox\rgambuzzi(at)webgriffe.com\coding dojo\iso3166\province_italiane.py
-# auth: Roberto Gambuzzi <gambuzzi@gmail.com>
-# desc: 
-# 
 # $Id: province_italiane.py 17/12/2012 10:03:21 Roberto $
 # --------------
 
